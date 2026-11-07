@@ -1,4 +1,4 @@
-# Analýza sentimentu slovenských komentárov – praktická časť diplomovej práce
+# Jemné doladenie jazykových modelov pre riešenie špecifických úloh – praktická časť diplomovej práce
 
 Tento repozitár obsahuje praktickú časť diplomovej práce zameranej na klasifikáciu sentimentu slovenských textov. Postup práce sa riadi metodikou **CRISP-DM** (Cross-Industry Standard Process for Data Mining).
 
