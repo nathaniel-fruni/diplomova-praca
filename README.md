@@ -39,5 +39,6 @@ Zhrnutie výsledkov a opis, ako by sa dal výsledný model prakticky použiť.
 | Súbor | Popis |
 |---|---|
 | [`data_understanding.ipynb`](data_understanding.ipynb) | Fáza pochopenia dát |
+| [`data_preparation.ipynb`](data_preparation.ipynb) | Fáza prípravy dát |
 
 Notebooky sú pripravené na spustenie v [Google Colab](https://colab.research.google.com/).
